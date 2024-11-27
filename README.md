@@ -2,50 +2,45 @@
 
 # My Gemini Stuff
 
+## Disclaimer
+
+This page has nothing to do with the Illinois based American company, Gemini Computer Systems, nor the Google AI product.
+
 ## Introduction
 
-The Gemini computers were made by Gemini Microcomputers Ltd., later Gemini Computer Systems of Great Britain. Their early models were built around the Zilog Z80A processor, but one model - the *Gemini Challenger* was based on Motorola's 68020 processor.
+The Gemini computers were made by Gemini Microcomputers Ltd., later Gemini Computer Systems of Great Britain, in the early to mid 80s. Their early models were built around the Zilog Z80A processor, but one model - the *Gemini Challenger* was based on Motorola's 68020 processor. The company was started by John A. Marshall, who previously headed Nasco Sales Ltd, famous for the  [Nascom](https://en.wikipedia.org/wiki/Nascom) computer line. The Nascom and Gemini computers are supposedly compatible to some extent.
 
-This company has nothing to do with the Illinois based American company, [Gemini Computer Systems](https://www.geminicomputersystems.com), nor the Google AI product.
-
-I was introduced to these computers when I was around 8 or 9. My father imported and sold computers from Great Britain, and had his heart set on the Gemini. They were resold and used througout his workshop, and I was encouraged to dive into the world of software development at an early age. As the Gemini started to phase out, I was gifted several machines, but I lost interest over time. Recently my father passed away, and I inherited his somewhat neglected collection of Gemini computers.
+I was introduced to these computers when I was around 8 or 9 years old. My father imported and sold computers from Great Britain, and had his heart set on the Gemini. They were resold and used througout his workshop, and I was encouraged to dive into the world of software development at an early age. As the Gemini started to phase out, I was gifted several machines, but I lost interest over time. Recently my father passed away, and I inherited his somewhat neglected collection of Gemini computers.
 
 I will add to this repository as I work on reparing and renovating these computers. They are somewhat rare, and deserve some attention.
 
 ## Current Collection
 
 ### Computers
-| Model Name | Model | Serial | Type | Color | State | Comments |
-|--|--|--|--|--|--|--|
-| [DIY Rack](./Computers/Rack/) | | | Rack | | Untested | Home built </br> HDD: None </br> FDD: 1 x 5.25" ¹ |
-| [Gemini Galaxy 1 "Multinet Work Station"](./Computers/Gemini-Galaxy-1-00935/) | ? | 00935 | Small | Beige/black | Untested | HDD: None </br> FDD: None |
-| [Gemini Galaxy 1](./Computers/Gemini-Galaxy-1-00309/) | ? | 00309 | Large | Beige/black | Untested | HDD: None </br> FDD: 2 x 5.25" ¹ |
-| [Gemini Galaxy 1](./Computers/Gemini-Galaxy-1-00590/) | ? | 00590 | Large | Grey/black | Untested | HDD: None </br> FDD: 2 x 5.25" ¹ |
-| [Gemini ?](./Computers/Gemini-GM905-01595/) | GM 905 | 01595 | Large | Grey | Untested | HDD: None </br> FDD: 2 x 5.25" ¹, 1 x 3.5" ¹ |
-| [Gemini ?](./Computers/Gemini-GM905-D-02034/) | GM 905-D | 02034 | Large | Grey/black | Untested | HDD: None </br> FDD: 2 x 5.25" ¹ |
-| [Gemini DX-3](./Computers/Gemini-DX3-GM946-004/) | GM 946 | 946-004 | Huge | Beige/Grey | Untested | HDD: 2 ¹ </br> FDD: 8" ¹, 2 x 5.25" ¹, 3.5" ¹ and 3"  |
 
-1. Unknown drive density/geometry.
+* [Home built rack system](./Computers/Rack/)
+* [Gemini Galaxy 1 "Multinet Work Station" (Serial No. 00935)](./Computers/Gemini-Galaxy-1-00935/)
+* [Gemini Galaxy 1 (Serial No. 00309)](./Computers/Gemini-Galaxy-1-00309/)
+* [Gemini Galaxy 1 (Serial No. 00590)](./Computers/Gemini-Galaxy-1-00590/)
+* [Gemini GM 905 (Serial No. 01595)](./Computers/Gemini-GM905-01595/)
+* [Gemini GM 905-D (Serial No. 02034)](./Computers/Gemini-GM905-D-02034/)
+* [Gemini DX-3 GM 946 (Serial No. 946-004)](./Computers/Gemini-DX3-GM946-004/)
 
 ### Peripherals
 
-| Model Name | Model | Serial | State | Comments |
-|--|--|--|--|--|
-| [Gemini Galaxy 1 Parallel Keyboard](./Peripherals/Gemini-Galaxy-1-Keyboard-00934/) | | 00934 | Untested | Old bulky beige/black model |
-| [Gemini Serial Keyboard](./Peripherals/Gemini-Keyboard-GM909DS-02582/) | GM 909DS | 02582 | Untested | Newer grey/blue model |
+* [Gemini Galaxy 1 Parallel Keyboard (Serial No. 00934)](./Peripherals/Gemini-Galaxy-1-Keyboard-00934/)
+* [Gemini GM 909DS Keyboard (Serial No. 02582)](./Peripherals/Gemini-Keyboard-GM909DS-02582/)
 
 ### Expansion Cards
 
 These might come from the systems above, but they were not installed:
 
-| Card | Model | Serial | State | Comments |
-|--|--|--|--|--|
-| Video Card | GM 832 Issue 3 | | Untested | EPROM says "SVC MON v4.1" |
-| Floppy/SASI Controller | GM 829 Issue 2 | | Untested ||
-| ? | GM 809 Issue 2 | | Untested ||
-| "80 Bus" Card Extender | GM 841 | | Untested ||
-| CPU | GM 813 Issue 3 | | Untested | EPROM says "RP/M v2.0" |
-| CPU | GM 813 Issue 3 | | Untested | EPROM says "RP/M v2.0". Marked "Svend's" |
+* GM 809 (Issue 2) - Unknown
+* GM 813 (Issue 3) - CPU (EPROM says "RP/M v2.0")
+* GM 813 (Issue 3) - CPU (EPROM says "RP/M v2.0") (Marked:  Svend's)
+* GM 829 (Issue 2) - Floppy Controller
+* GM 832 (Issue 3) - Video Card (EPROM says "SVC MON v4.1")
+* GM 841 - "80 Bus" Card Extender
 
 ## External resources
 
