@@ -1,3 +1,5 @@
+![Gamini Microcomputers logo](./Assets/gemini-microcomputers-logo.png "Gemini Microcomputers")
+
 # My Gemini Stuff
 
 ## Introduction
