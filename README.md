@@ -42,6 +42,13 @@ These might come from the systems above, but they were not installed:
 * GM 832 (Issue 3) - Video Card (EPROM says "SVC MON v4.1")
 * GM 841 - "80 Bus" Card Extender
 
+## Media Emulation
+
+* [David Gesswein's MFM drive reader/emulator](https://www.pdp8online.com/mfm/) (successful test reported!)
+* [Decromancer's improved MFM drive reader/emulator](https://decromancer.ca/mfm-emulator/) (based on the above)
+* The [DREM MFM/RLL Drive Emulator](https://www.drem.info/)
+* [FlashFloppy firmware](https://github.com/keirf/flashfloppy) for the [Gotek USB Floppy Emulator](https://www.gotekemulator.com/)
+j 
 ## External resources
 
 * John Newcombe's pages:
