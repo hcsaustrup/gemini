@@ -17,7 +17,7 @@ I will add to this repository as I work on reparing and renovating these compute
 ### Computers
 | Model Name | Model | Serial | Type | Color | State | Comments |
 |--|--|--|--|--|--|--|
-| DIY Rack | | | Rack | | Untested | Home built </br> HDD: None </br> FDD: 1 x 5.25" ¹ |
+| [DIY Rack](./Computers/Rack/) | | | Rack | | Untested | Home built </br> HDD: None </br> FDD: 1 x 5.25" ¹ |
 | [Gemini Galaxy 1 "Multinet Work Station"](./Computers/Gemini-Galaxy-1-00935/) | ? | 00935 | Small | Beige/black | Untested | HDD: None </br> FDD: None |
 | [Gemini Galaxy 1](./Computers/Gemini-Galaxy-1-00309/) | ? | 00309 | Large | Beige/black | Untested | HDD: None </br> FDD: 2 x 5.25" ¹ |
 | [Gemini Galaxy 1](./Computers/Gemini-Galaxy-1-00590/) | ? | 00590 | Large | Grey/black | Untested | HDD: None </br> FDD: 2 x 5.25" ¹ |
